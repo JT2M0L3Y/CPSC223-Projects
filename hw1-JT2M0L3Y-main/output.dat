@@ -1,0 +1,22 @@
+# All times in milliseconds (msec)
+# Column 1 = input data size
+# Column 2 = avg time bubble sort, sorted
+# Column 3 = avg time bubble sort, reversed
+# Column 4 = avg time bubble sort, shuffled
+# Column 5 = avg time insertion sort, sorted
+# Column 6 = avg time insertion sort, reversed
+# Column 7 = avg time insertion sort, shuffled
+# Column 8 = avg time selection sort, sorted
+# Column 9 = avg time selection sort, reversed
+# Column 10 = avg time selection sort, shuffled
+0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+1000 0.00 4.00 2.00 0.00 1.00 0.00 1.33 1.00 1.00
+2000 0.00 16.00 11.33 0.00 7.00 3.00 6.00 6.00 6.00
+3000 0.00 35.67 25.33 0.00 15.00 7.00 14.00 13.33 14.00
+4000 0.00 63.67 45.33 0.00 30.00 13.00 25.00 24.00 25.00
+5000 0.00 100.00 70.00 0.00 43.67 21.33 39.33 38.00 39.33
+6000 0.00 145.00 100.67 0.00 63.00 30.33 56.33 55.00 57.00
+7000 0.00 195.67 136.67 0.00 88.00 41.67 77.33 75.00 77.33
+8000 0.00 255.67 184.67 0.00 113.33 57.33 103.33 98.00 102.33
+9000 0.00 334.00 225.33 0.00 142.67 69.00 127.00 124.00 128.00
+10000 0.00 412.33 284.00 0.00 175.67 85.33 157.67 153.33 158.00

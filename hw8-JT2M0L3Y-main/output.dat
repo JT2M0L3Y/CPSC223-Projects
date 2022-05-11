@@ -1,0 +1,29 @@
+# All times in milliseconds (msec)
+# Column 1 = input data size
+# Column 2 = array map insert
+# Column 3 = binsearch map insert
+# Column 4 = hash map insert
+# Column 5 = bst map insert
+# Column 6 = array map erase
+# Column 7 = binsearch map erase
+# Column 8 = hash map erase
+# Column 9 = bst map erase
+# Column 10 = array map contains
+# Column 11 = binsearch map contains
+# Column 12 = hash map contains
+# Column 13 = bst map contains
+# Column 14 = array map find range
+# Column 15 = binsearch map find range
+# Column 16 = hash map find range
+# Column 17 = bst map find range
+# Column 18 = array map next key
+# Column 19 = binsearch map next key
+# Column 20 = hash map next key
+# Column 21 = bst map next key
+# Column 22 = array map sorted keys
+# Column 23 = binsearch map sorted keys
+# Column 24 = hash map sorted keys
+# Column 25 = bst map sorted keys
+# Column 26 = bst map height shuffled
+# Column 27 = log base 2 of input size
+0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
